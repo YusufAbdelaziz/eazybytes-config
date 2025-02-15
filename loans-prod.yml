@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Hey, welcome to EazyBank loans related prod APIs - production Spring Cloud Bus through monitor"
+  message: "Hey, welcome to EazyBank loans related prod APIs - production Spring Cloud Bus through monitor 2"
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "pelias@eazybank.com"
